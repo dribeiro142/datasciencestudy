@@ -1,6 +1,6 @@
 # Data Science Study
 
-It's my attemp to learning this amazing area.
+It's my attemp to learning this amazing field.
 
 
 Actually, my studies is guided by book Data Science from Scratch, by Joel Grus.

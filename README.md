@@ -35,5 +35,9 @@ We use a **Loader Abstract** class to help in access of the data.
 This class was created because this example can **evolve to other 
 forms of access** such as **Database**, **CSV files**, et cetera.
 
+#### NetworkDataBase
+
+This class is a generalization of ways to access data.
+This is the Abstract class that returns a structured object (Analysis Data).
 
 
